@@ -1,0 +1,19 @@
+.sq-body{
+    width: 583px;
+    height: 400px;
+    background-color: #357a38;
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+.sq-inner-body{
+    padding-top: 20px;
+    width: 550px;
+    height: 345px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.submit-margin{
+    margin-top: 25px;
+}

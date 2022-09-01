@@ -1,0 +1,54 @@
+.signing-page{
+    height: 93vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.signing-topbar{
+    width: 100%;
+    background-color: rbg(250, 250, 250);
+    min-height: 50px;
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    border: 2px solid rgb(220, 220, 220);
+}
+
+.topbar-heading{
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    margin-left: 20px;
+}
+
+.signing-container{
+    flex: 18;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.signing-documents{
+    background-color: rgb(228, 228, 228);
+    padding: 0.5rem 0 0.5rem 0;
+    flex: 8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    overflow: hidden;
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+
+.right-panel{
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(240, 240, 240);
+    border-left: 2px solid rgb(220, 220, 220);
+    height: 100%;
+    overflow: hidden;
+    overflow-y: scroll;
+    align-items: center;
+}

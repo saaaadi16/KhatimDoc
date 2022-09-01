@@ -1,0 +1,72 @@
+.page-holder {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.image-style{
+    height: 80px;
+    width: 100px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.signup-otp-pass{
+    box-sizing: border-box;
+    margin: 3.5rem 0;
+    width: 450px;
+    height: 300px;
+    display: flex;
+    background: #357a38;
+    border-radius: 10px;
+    flex-direction: column;
+}
+
+.signup-body{
+    width: 758px;
+    height: 525px;
+    background-color: #357a38;
+    border-radius: 10px;
+    padding: 1rem;
+    margin-bottom: 40px;
+}
+
+.signup-pass-body {
+    width: 551px;
+    height: 375px;
+    background-color: #357a38;
+    border-radius: 10px;
+}
+
+.option{
+    color: white;
+}
+
+.signup-inner-body{
+    padding-top: 20px;
+    width: 728px;
+    height: 465px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.signup-pass-inner{
+    width: 520px;
+    height: 310px;
+    margin: 1rem;
+    padding: 2rem 1rem 0 1rem;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.a-styling{
+    text-decoration: none;
+}
+
+.company-margin{
+    padding-left: 3px;
+}
+
+.country-margin{
+    padding-right: 20px;
+}

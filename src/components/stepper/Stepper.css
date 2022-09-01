@@ -1,0 +1,12 @@
+/* #stepper-color svg.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-active,
+svg.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-completed {
+    color: #357a38 !important;
+} */
+
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-active{
+    color: #357a38 !important;
+}
+
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-completed{
+    color: #357a38 !important;
+}

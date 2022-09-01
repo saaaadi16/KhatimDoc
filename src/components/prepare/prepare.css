@@ -1,0 +1,78 @@
+.prepare-container{
+    margin: 0;
+    height: 92vh;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+.form{
+    padding: 0.75rem 0.2rem 0.75rem 0;
+    margin: 0.75rem 1rem 0.5rem 0;
+    background-color: white;
+    border: 1px solid #bdbdbd;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.message-form{
+    margin-top: 0.5rem;
+    background-color: white;
+    padding: 2rem;
+    box-shadow: 0.5px 0.7px #989898;
+    border: 1px solid #bdbdbd
+}
+
+.form-bar{
+    flex:1;
+    margin: 0 0.5rem 0 0;
+    display: flex;
+    width: 20px;
+    height: 45px;
+}
+
+.form-index-container {
+    flex: 1;
+    display: flex;
+    width: 60px;
+    height: 45px;
+    align-items: center;
+    margin: 0 1rem 0 0.5rem;
+}
+
+.form-index{
+    border: 1px solid #bdbdbd;
+    width: 25px;
+}
+
+.form-dragzone{
+    flex:1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.form-inputs{
+    display: flex;
+    flex-direction: row;
+    flex: 44;
+    align-items: center;
+}
+
+.form-button{
+    margin-left: 0.2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 2;
+}
+
+.form-actions{
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    margin-right: 1rem;
+}
